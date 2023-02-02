@@ -13,8 +13,6 @@ const Footer = () => {
               <Link style={{textDecoration:'none',color:'white',padding:'10px'}} to='/contact'>Contact</Link>
               |
               <Link style={{textDecoration:'none',color:'white',padding:'10px',}} to='/policy'>Privacy Policy</Link>
-             
-              
             </p>
         
     </div>
